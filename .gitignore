@@ -1,0 +1,16 @@
+# Mengabaikan folder build Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Mengabaikan file konfigurasi IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# Mengabaikan file sistem Mac
+.DS_Store
+
+# Mengabaikan file JSON lokal kita
+courses.json
